@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analysis-SAM-AI-TACHNOLOGY-
+# Twitter-Sentiment-Analysis
 Data Science Internship Projects
 ## 📌 About This Project
 This project analyzes and visualizes 
